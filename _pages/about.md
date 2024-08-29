@@ -171,7 +171,7 @@ _* denotes equal contribution._
 <!-- - <img src="https://img.shields.io/badge/CVPR-2020-blue?style=flat-square"> <u>A</u>, B, C, <strong>Paper Name</strong>, <em>In CVPR 2020</em>. -->
 
 
-# 🏅 Awards
+# 🏅 Honors and Awards
 * Outstanding Undergraduate Thesis of College of Automation, Chongqing University, 2022
 * National Scholarship, 2021, 2019
 * Outstanding Student of Chongqing University, 2019
