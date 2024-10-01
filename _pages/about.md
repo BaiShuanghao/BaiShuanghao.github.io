@@ -52,7 +52,7 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/pdf/2409.14163">arXiv</a> | <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2409.14163">arXiv</a> | <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
   </div>
 </div>
 
