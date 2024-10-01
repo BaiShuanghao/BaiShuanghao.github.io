@@ -25,7 +25,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a 3rd-year Direct Ph.D. student of artificial intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). 
+I'm a 3rd-year direct Ph.D. student of artificial intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). 
 I am currently serving as a visiting student at the [MiLab](https://milab.westlake.edu.cn/index.html) at Westlake University, advised by Prof. [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN). 
 Previously, I obtained my bachelor’s degree from School of autamation in Chongqing University in 2022. 
 
@@ -52,7 +52,7 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/pdf/2409.14163"> Paper</a> | <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
+    <p style="margin: 0;"><a href="https://arxiv.org/pdf/2409.14163">arXiv</a> | <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
   </div>
 </div>
 
