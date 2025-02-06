@@ -30,16 +30,18 @@ I am currently serving as a visiting student at the [MiLab](https://milab.westla
 Previously, I obtained my bachelor’s degree from School of autamation in Chongqing University in 2022. 
 
 🔭 My research interests lie in generalization in computer vision and vision-language models.
-I’m also currently learning robotics, including generalization in robot learning, vision language action models, and 3D techniques.
+I’m also currently learning robotics, including generalization in robot learning and vision language action models.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💻 I am actively seeking academic exchange opportunities for Fall 2025, particularly through the CSC program or other joint Ph.D. programs. I would greatly appreciate it if you could inform me of any opportunities that may align with my interests.
+💻 I am actively seeking academic and industrial exchange opportunities for Fall 2025, specifically focusing on joint Ph.D. programs and internship projects. I would greatly appreciate any information regarding potential opportunities that match my research interests and career aspirations.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- \[2025/01\]: One paper ([VLAS](https://openreview.net/forum?id=K4FAFNRpko&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))) on vision-language-action model got accepted by ICLR 2025.
+- \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on VLM-based source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
 - \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
@@ -47,12 +49,37 @@ I’m also currently learning robotics, including generalization in robot learni
 
 # 📝 Publications 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/arxiv-2024-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
+  <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghai Bai</u></strong>, Wanqi Zhou, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">arXiv 2025</p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2502.02853">arXiv</a>| <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | <a href="https://github.com/BaiShuanghao/BC-IB">Code</a></p>
+  </div>
+</div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/iclr-2025-vlas.jpg" alt="VLAS" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</h3>
+    <p style="margin: 0 0 10px 0;">Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></strong>, Han Zhao, Donglin Wang</p>
+    <p style="margin: 0 0 10px 0;">ICLR 2025</p>
+    <p style="margin: 0;"><a href="https://openreview.net/forum?id=K4FAFNRpko">OpenView</a></p>
+  </div>
+</div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/icassp-2025-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2409.14163">arXiv</a> | <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
+    <p style="margin: 0 0 10px 0;">ICASSP 2025</p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
+      <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
   </div>
 </div>
 
@@ -64,7 +91,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective</h3>
     <p style="margin: 0 0 10px 0;">Wanqi Zhou*, <strong><u>Shuanghao Bai*</u></strong>, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19287">arXiv</a> | <a href="https://github.com/ElleZWQ/MMCoA">Code</a></p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19287">arXiv</a> | 
+      <a href="https://github.com/ElleZWQ/MMCoA">Code</a></p>
   </div>
 </div>
 
@@ -76,7 +104,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Soft Prompt Generation for Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai*</u></strong>, Yuedi Zhang*, Wanqi Zhou, Yicong He, Zhirong Luan, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ECCV 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19286v2">arXiv</a> | 
+    <p style="margin: 0;"><a href="https://link.springer.com/chapter/10.1007/978-3-031-72646-0_25">Paper</a> | 
+      <a href="https://arxiv.org/abs/2404.19286v2">arXiv</a> | 
       <a href="https://github.com/renytek13/Soft-Prompt-Generation">Code</a> |
       <a href="https://zhuanlan.zhihu.com/p/719329220">Chinese Intro</a></p>
   </div>
@@ -147,8 +176,9 @@ _* denotes equal contribution._
 
 
 # 🏅 Honors and Awards
+* National Scholarship, 2024
 * Outstanding Undergraduate Thesis of College of Automation, Chongqing University, 2022
-* National Scholarship, 2021, 2019
+* National Scholarship, 2019
 * Outstanding Student of Chongqing University, 2019
 
 <!-- 
