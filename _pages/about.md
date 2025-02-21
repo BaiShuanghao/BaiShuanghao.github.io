@@ -40,14 +40,14 @@ I’m also currently learning robotics, including generalization in robot learni
 
 
 # 🔥 News
-- \[2025/01\]: One paper ([VLAS](https://openreview.net/forum?id=K4FAFNRpko&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))) on vision-language-action model got accepted by ICLR 2025.
+- \[2025/01\]: One paper ([VLAS](https://arxiv.org/abs/2502.13508))) on vision-language-action model got accepted by ICLR 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on VLM-based source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
 - \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
 
 
-# 📝 Publications 
+# 📝 Publications
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
@@ -66,7 +66,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</h3>
     <p style="margin: 0 0 10px 0;">Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></strong>, Han Zhao, Donglin Wang</p>
     <p style="margin: 0 0 10px 0;">ICLR 2025</p>
-    <p style="margin: 0;"><a href="https://openreview.net/forum?id=K4FAFNRpko">OpenView</a></p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2502.13508">arXiv</a> |
+      <a href="https://github.com/whichwhichgone/VLAS">Code</a></p>
   </div>
 </div>
 
