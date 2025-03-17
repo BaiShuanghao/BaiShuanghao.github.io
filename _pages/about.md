@@ -40,6 +40,7 @@ I’m also currently learning robotics, including generalization in robot learni
 
 
 # 🔥 News
+- \[2025/03\]: One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242) on causal discovery got accepted by Neural Networks 2025.
 - \[2025/01\]: One paper ([VLAS](https://arxiv.org/abs/2502.13508))) on vision-language-action model got accepted by ICLR 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on VLM-based source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
@@ -49,12 +50,29 @@ I’m also currently learning robotics, including generalization in robot learni
 
 # 📝 Publications
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/nn-2025-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
+    <p style="margin: 0 0 10px 0;">Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
+    <p style="margin: 0;">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a>
+      </p>
+  </div>
+</div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghai Bai</u></strong>, Wanqi Zhou, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2025</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2502.02853">arXiv</a>| <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | <a href="https://github.com/BaiShuanghao/BC-IB">Code</a></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2502.02853">arXiv</a>| 
+      <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
+      <a href="https://github.com/BaiShuanghao/BC-IB">Code</a></p>
   </div>
 </div>
 
@@ -66,8 +84,10 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</h3>
     <p style="margin: 0 0 10px 0;">Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></strong>, Han Zhao, Donglin Wang</p>
     <p style="margin: 0 0 10px 0;">ICLR 2025</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2502.13508">arXiv</a> |
-      <a href="https://github.com/whichwhichgone/VLAS">Code</a></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2502.13508">arXiv</a> |
+      <a href="https://github.com/whichwhichgone/VLAS">Code</a>
+      </p>
   </div>
 </div>
 
@@ -79,8 +99,10 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICASSP 2025</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
-      <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
+      <a href="https://github.com/zhanghr2001/PromptTA">Code</a>
+      </p>
   </div>
 </div>
 
@@ -92,7 +114,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective</h3>
     <p style="margin: 0 0 10px 0;">Wanqi Zhou*, <strong><u>Shuanghao Bai*</u></strong>, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19287">arXiv</a> | 
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2404.19287">arXiv</a> | 
       <a href="https://github.com/ElleZWQ/MMCoA">Code</a></p>
   </div>
 </div>
@@ -105,22 +128,12 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Soft Prompt Generation for Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai*</u></strong>, Yuedi Zhang*, Wanqi Zhou, Yicong He, Zhirong Luan, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ECCV 2024</p>
-    <p style="margin: 0;"><a href="https://link.springer.com/chapter/10.1007/978-3-031-72646-0_25">Paper</a> | 
+    <p style="margin: 0;">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72646-0_25">Paper</a> | 
       <a href="https://arxiv.org/abs/2404.19286v2">arXiv</a> | 
       <a href="https://github.com/renytek13/Soft-Prompt-Generation">Code</a> |
-      <a href="https://zhuanlan.zhihu.com/p/719329220">Chinese Intro</a></p>
-  </div>
-</div>
-
-<hr />
-
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/ssrn-2024-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
-    <p style="margin: 0 0 10px 0;">Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">SSRN 2024</p>
-    <p style="margin: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a></p>
+      <a href="https://zhuanlan.zhihu.com/p/719329220">Chinese Intro</a>
+      </p>
   </div>
 </div>
 
@@ -134,7 +147,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0 0 10px 0;">ICML 2024</p>
     <p style="margin: 0;"><a href="https://proceedings.mlr.press/v235/zhou24a.html">Paper</a> | 
       <a href="https://arxiv.org/abs/2405.08779">arXiv</a> |
-      <a href="https://github.com/ElleZWQ/JRNGC">Code</a></p>
+      <a href="https://github.com/ElleZWQ/JRNGC">Code</a>
+      </p>
   </div>
 </div>
 
@@ -146,12 +160,12 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Prompt-based Distribution Alignment for Unsupervised Domain Adaptation</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Min Zhang, Wanqi Zhou, Siteng Huang, Zhirong Luan, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">AAAI 2024</p>
-    <p style="margin: 0;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
+    <p style="margin: 0;">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
       <a href="https://arxiv.org/abs/2312.09553v2">arXiv</a> | 
       <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">Code</a> |
       <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment"><img src="https://img.shields.io/github/stars/BaiShuanghao/Prompt-based-Distribution-Alignment?style=social" alt="GitHub Stars"></a>
-      <!-- <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment/forks?include=active%2Cinactive"><img src="https://img.shields.io/github/forks/BaiShuanghao/Prompt-based-Distribution-Alignment" alt="GitHub Forks"></a> -->
-    </p>
+      </p>
   </div>
 </div>
 
@@ -163,10 +177,11 @@ I’m also currently learning robotics, including generalization in robot learni
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Improving Cross-domain Few-shot Classification with Multilayer Perceptron</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICASSP 2024</p>
-    <p style="margin: 0;"><a href="https://ieeexplore.ieee.org/abstract/document/10447065/">Paper</a> |
+    <p style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10447065/">Paper</a> |
       <a href="https://arxiv.org/abs/2312.09589">arXiv</a> | 
       <a href="https://github.com/BaiShuanghao/CDFSC-MLP">Code</a>  
-    </p>
+      </p>
   </div>
 </div>
 
