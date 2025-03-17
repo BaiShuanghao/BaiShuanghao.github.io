@@ -56,7 +56,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0 0 10px 0;">Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
     <p style="margin: 0;">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a> |
+      <a href="https://github.com/ElleZWQ/MHCD">Code</a>
       </p>
   </div>
 </div>
@@ -72,7 +73,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0;">
       <a href="https://arxiv.org/abs/2502.02853">arXiv</a>| 
       <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
-      <a href="https://github.com/BaiShuanghao/BC-IB">Code</a></p>
+      <a href="https://github.com/BaiShuanghao/BC-IB">Code</a>
+      </p>
   </div>
 </div>
 
@@ -116,7 +118,8 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
     <p style="margin: 0;">
       <a href="https://arxiv.org/abs/2404.19287">arXiv</a> | 
-      <a href="https://github.com/ElleZWQ/MMCoA">Code</a></p>
+      <a href="https://github.com/ElleZWQ/MMCoA">Code</a>
+      </p>
   </div>
 </div>
 
