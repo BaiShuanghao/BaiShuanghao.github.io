@@ -163,8 +163,7 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0;">
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
       <a href="https://arxiv.org/abs/2312.09553v2">arXiv</a> | 
-      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">Code</a> |
-      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment"><img src="https://img.shields.io/github/stars/BaiShuanghao/Prompt-based-Distribution-Alignment?style=social" alt="GitHub Stars"></a>
+      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">Code</a>
       </p>
   </div>
 </div>
