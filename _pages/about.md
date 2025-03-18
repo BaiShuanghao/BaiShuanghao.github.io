@@ -102,6 +102,7 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICASSP 2025</p>
     <p style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10888057">Paper</a> |
       <a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
       <a href="https://github.com/zhanghr2001/PromptTA">Code</a>
       </p>
@@ -133,7 +134,7 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0 0 10px 0;">ECCV 2024</p>
     <p style="margin: 0;">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-72646-0_25">Paper</a> | 
-      <a href="https://arxiv.org/abs/2404.19286v2">arXiv</a> | 
+      <a href="https://arxiv.org/abs/2404.19286">arXiv</a> | 
       <a href="https://github.com/renytek13/Soft-Prompt-Generation">Code</a> |
       <a href="https://zhuanlan.zhihu.com/p/719329220">Chinese Intro</a>
       </p>
@@ -165,7 +166,7 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0 0 10px 0;">AAAI 2024</p>
     <p style="margin: 0;">
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
-      <a href="https://arxiv.org/abs/2312.09553v2">arXiv</a> | 
+      <a href="https://arxiv.org/abs/2312.09553">arXiv</a> | 
       <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">Code</a>
       </p>
   </div>
