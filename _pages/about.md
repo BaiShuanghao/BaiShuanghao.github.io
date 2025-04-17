@@ -40,7 +40,7 @@ I’m also currently learning robotics, including generalization in robot learni
 
 
 # 🔥 News
-- \[2025/03\]: One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242) on causal discovery got accepted by Neural Networks 2025.
+- \[2025/03\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery got accepted by Neural Networks 2025.
 - \[2025/01\]: One paper ([VLAS](https://arxiv.org/abs/2502.13508))) on vision-language-action model with speech instructions got accepted by ICLR 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on VLM-based source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/10\]: The GitHub repository [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) is now public! Let’s work together to build a comprehensive and valuable resource for the robotics and AI community!
@@ -57,7 +57,7 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0 0 10px 0;">Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
     <p style="margin: 0;">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a> |
+      <a href="https://www.sciencedirect.com/science/article/pii/S0893608025002965">Paper</a> |
       <a href="https://github.com/ElleZWQ/MHCD">Code</a>
       </p>
   </div>
