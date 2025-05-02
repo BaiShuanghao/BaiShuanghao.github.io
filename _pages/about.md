@@ -40,6 +40,7 @@ I’m also currently learning robotics, including generalization in robot learni
 
 
 # 🔥 News
+- \[2025/05\]: One paper on visual imitation learning with information theory [BC-IB](https://arxiv.org/abs/2502.02853) got accepted by ICML 2025.
 - \[2025/03\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery got accepted by Neural Networks 2025.
 - \[2025/01\]: One paper ([VLAS](https://arxiv.org/abs/2502.13508))) on vision-language-action model with speech instructions got accepted by ICLR 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on VLM-based source-free domain generalization got accepted by ICASSP 2025.
@@ -51,6 +52,22 @@ I’m also currently learning robotics, including generalization in robot learni
 
 # 📝 Publications
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">ICML 2025</p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2502.02853">arXiv</a>| 
+      <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
+      <a href="https://github.com/BaiShuanghao/BC-IB">Code</a>
+      </p>
+  </div>
+</div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/nn-2025-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
@@ -59,22 +76,6 @@ I’m also currently learning robotics, including generalization in robot learni
     <p style="margin: 0;">
       <a href="https://www.sciencedirect.com/science/article/pii/S0893608025002965">Paper</a> |
       <a href="https://github.com/ElleZWQ/MHCD">Code</a>
-      </p>
-  </div>
-</div>
-
-<hr />
-
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">arXiv 2025</p>
-    <p style="margin: 0;">
-      <a href="https://arxiv.org/abs/2502.02853">arXiv</a>| 
-      <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
-      <a href="https://github.com/BaiShuanghao/BC-IB">Code</a>
       </p>
   </div>
 </div>
