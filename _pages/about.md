@@ -40,9 +40,9 @@ I’m also currently learning robotics, including generalization in robot learni
 
 
 # 🔥 News
-- \[2025/05\]: One paper on visual imitation learning with information theory [BC-IB](https://arxiv.org/abs/2502.02853) got accepted by ICML 2025.
+- \[2025/05\]: One paper ([BC-IB](https://arxiv.org/abs/2502.02853)) on visual imitation learning with information theory got accepted by ICML 2025.
 - \[2025/03\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery got accepted by Neural Networks 2025.
-- \[2025/01\]: One paper ([VLAS](https://arxiv.org/abs/2502.13508))) on vision-language-action model with speech instructions got accepted by ICLR 2025.
+- \[2025/01\]: One paper ([VLAS](https://arxiv.org/abs/2502.13508)) on vision-language-action model with speech instructions got accepted by ICLR 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on VLM-based source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/10\]: The GitHub repository [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) is now public! Let’s work together to build a comprehensive and valuable resource for the robotics and AI community!
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
