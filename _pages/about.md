@@ -40,23 +40,28 @@ I’m also currently learning robotics, including generalization in robot learni
 
 
 # 🔥 News
-- \[2025/05\]: One paper ([BC-IB](https://arxiv.org/abs/2502.02853)) on visual imitation learning with information theory got accepted by ICML 2025.
-- \[2025/03\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery got accepted by Neural Networks 2025.
-- \[2025/01\]: One paper ([VLAS](https://arxiv.org/abs/2502.13508)) on vision-language-action model with speech instructions got accepted by ICLR 2025.
-- \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on VLM-based source-free domain generalization got accepted by ICASSP 2025.
-- \[2024/10\]: The GitHub repository [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) is now public! Let’s work together to build a comprehensive and valuable resource for the robotics and AI community!
-- \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
-- \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
-- \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
+- \[2025/05/06\]: We released [OpenHelix](https://arxiv.org/abs/2505.03912), which provides a short survey and empirical analysis of dual-system VLA, and introduces a novel open-source dual-system VLA model.
+- \[2025/05/01\]: [BC-IB](https://arxiv.org/abs/2502.02853), the first to introduce information bottleneck theory into robotic manipulation through visual imitation learning under the lens of information theory, got accepted for ICML 2025! See [Project page](https://baishuanghao.github.io/BC-IB.github.io/).
+- \[2025/03/24\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery that integrates Minimum Error Entropy to enable dynamic adaptation to varying levels of complexity and noise got accepted for Neural Networks 2025!
+- \[2025/01/23\]: [VLAS](https://arxiv.org/abs/2502.13508), the first vision-language-action model that incorporates speech instructions for robotic manipulation, got accepted for ICLR 2025!
+- \[2024/12/21\]: [PromptTA](https://arxiv.org/abs/2409.14163), a novel VLM-based source-free domain generalization method integrating a text adapter and diverse prompt inputs, got accepted by ICASSP 2025!
+- \[2024/10/23\]: The GitHub repository [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) is now public! Let’s work together to build a comprehensive and valuable resource for the robotics and AI community!
+- \[2024/07/04\]: [SPG](https://arxiv.org/abs/2404.19286), a novel VLM-based domain generalization method that introduces generative concepts into prompt learning, got accepted by ECCV 2024.
+- \[2024/05/02\]: [JRNGC](https://arxiv.org/abs/2405.08779), a unified causal discovery method that leverages the Jacobian matrix to address high-dimensional multivariate causal discovery, got accepted by ICML 2024!
+- \[2024/12/14\]: One [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
+- \[2023/12/09\]: [PDA](https://arxiv.org/abs/2312.09553), a novel VLM-based prompt learning approach for unsupervised domain adaptation that integrates and thoroughly evaluates diverse prompt learning methods, got accepted by AAAI 2024! 
 
 
 # 📝 Publications
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+
+## Published
+
+<div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 30px;">
   <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">ICML 2025</p>
+    <p style="margin: 0 0 10px 0;"><em>ICML 2025</em></p>
     <p style="margin: 0;">
       <a href="https://arxiv.org/abs/2502.02853">arXiv</a>| 
       <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
@@ -68,72 +73,11 @@ I’m also currently learning robotics, including generalization in robot learni
 <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/nn-2025-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
-    <p style="margin: 0 0 10px 0;">Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
-    <p style="margin: 0;">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0893608025002965">Paper</a> |
-      <a href="https://github.com/ElleZWQ/MHCD">Code</a>
-      </p>
-  </div>
-</div>
-
-<hr />
-
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/iclr-2025-vlas.jpg" alt="VLAS" style="width: 200px; height: 120px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</h3>
-    <p style="margin: 0 0 10px 0;">Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></strong>, Han Zhao, Donglin Wang</p>
-    <p style="margin: 0 0 10px 0;">ICLR 2025</p>
-    <p style="margin: 0;">
-      <a href="https://arxiv.org/abs/2502.13508">arXiv</a> |
-      <a href="https://github.com/whichwhichgone/VLAS">Code</a>
-      </p>
-  </div>
-</div>
-
-<hr />
-
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/icassp-2025-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
-    <p style="margin: 0 0 10px 0;">Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">ICASSP 2025</p>
-    <p style="margin: 0;">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10888057">Paper</a> |
-      <a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
-      <a href="https://github.com/zhanghr2001/PromptTA">Code</a>
-      </p>
-  </div>
-</div>
-
-<hr />
-
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/arxiv-2024-mmcoa.jpg" alt="MMCoA" style="width: 200px; height: 120px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective</h3>
-    <p style="margin: 0 0 10px 0;">Wanqi Zhou*, <strong><u>Shuanghao Bai*</u></strong>, Qibin Zhao, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;">
-      <a href="https://arxiv.org/abs/2404.19287">arXiv</a> | 
-      <a href="https://github.com/ElleZWQ/MMCoA">Code</a>
-      </p>
-  </div>
-</div>
-
-<hr />
-
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/eccv-2024-spg.jpg" alt="SPG" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Soft Prompt Generation for Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai*</u></strong>, Yuedi Zhang*, Wanqi Zhou, Yicong He, Zhirong Luan, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">ECCV 2024</p>
+    <p style="margin: 0 0 10px 0;"><em>ECCV 2024</em></p>
     <p style="margin: 0;">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-72646-0_25">Paper</a> | 
       <a href="https://arxiv.org/abs/2404.19286">arXiv</a> | 
@@ -150,7 +94,7 @@ I’m also currently learning robotics, including generalization in robot learni
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Jacobian Regularizer-based Neural Granger Causality</h3>
     <p style="margin: 0 0 10px 0;">Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Shujian Yu, Qibin Zhao, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">ICML 2024</p>
+    <p style="margin: 0 0 10px 0;"><em>ICML 2024</em></p>
     <p style="margin: 0;"><a href="https://proceedings.mlr.press/v235/zhou24a.html">Paper</a> | 
       <a href="https://arxiv.org/abs/2405.08779">arXiv</a> |
       <a href="https://github.com/ElleZWQ/JRNGC">Code</a>
@@ -160,12 +104,12 @@ I’m also currently learning robotics, including generalization in robot learni
 
 <hr />
 
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 40px;">
   <img src="images/paper/aaai-2024-pda.jpg" alt="PDA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Prompt-based Distribution Alignment for Unsupervised Domain Adaptation</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Min Zhang, Wanqi Zhou, Siteng Huang, Zhirong Luan, Donglin Wang, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">AAAI 2024</p>
+    <p style="margin: 0 0 10px 0;"><em>AAAI 2024</em></p>
     <p style="margin: 0;">
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
       <a href="https://arxiv.org/abs/2312.09553">arXiv</a> | 
@@ -174,26 +118,30 @@ I’m also currently learning robotics, including generalization in robot learni
   </div>
 </div>
 
-<hr />
 
-<div style="display: flex; align-items: center;margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/icassp-2024-mlp.jpg" alt="MLP" style="width: 200px; height: 80px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Improving Cross-domain Few-shot Classification with Multilayer Perceptron</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Donglin Wang, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">ICASSP 2024</p>
-    <p style="margin: 0;">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10447065/">Paper</a> |
-      <a href="https://arxiv.org/abs/2312.09589">arXiv</a> | 
-      <a href="https://github.com/BaiShuanghao/CDFSC-MLP">Code</a>  
-      </p>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/NN-2025-228B22?style=flat-square"> 
+Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen.  &quot;**An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery**&quot;.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965)] [[Code](https://github.com/ElleZWQ/MHCD)]
 
-_* denotes equal contribution._
+<img src="https://img.shields.io/badge/ICLR-2025-blue?style=flat-square"> 
+Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></strong>, Han Zhao, Donglin Wang.  &quot;**VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2502.13508)] [[Code](https://github.com/whichwhichgone/VLAS)]
+
+<img src="https://img.shields.io/badge/ICASSP-2025-blue?style=flat-square"> 
+Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen.  &quot;**PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10888057)] [[arXiv](https://arxiv.org/abs/2409.14163)] [[Code](https://github.com/zhanghr2001/PromptTA)]
+
+<img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"> 
+<strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Donglin Wang, Badong Chen.  &quot;**Improving Cross-domain Few-shot Classification with Multilayer Perceptron**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10447065/)] [[arXiv](https://arxiv.org/abs/2312.09589)] [[Code](https://github.com/BaiShuanghao/CDFSC-MLP)]
 
 
-<!-- - <img src="https://img.shields.io/badge/CVPR-2020-blue?style=flat-square"> <u>A</u>, B, C, <strong>Paper Name</strong>, <em>In CVPR 2020</em>. -->
+## Preprints & Under Submission
+
+<img src="https://img.shields.io/badge/arXiv-2505.18770-B31B1B?style=flat-square">
+Yuedi Zhang, <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Badong Chen.  &quot;**Dual-Path Stable Soft Prompt Generation for Domain Generalization**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
+
+<img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=flat-square">
+Can Cui, Pengxiang Ding, Wenxuan Song, <strong><u>Shuanghao Bai</u></strong>, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, Han Zhao, Siteng Huang, Donglin Wang.  &quot;**Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2505.03912)] [[Code](https://github.com/OpenHelix-robot/OpenHelix)] [[Project](https://openhelix-robot.github.io/)]
+
+<img src="https://img.shields.io/badge/arXiv-2404.19287-B31B1B?style=flat-square">
+Wanqi Zhou*, <strong><u>Shuanghao Bai*</u></strong>, Danilo Mandic, Qibin Zhao, Badong Chen.  &quot;**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**&quot;.  [[arXiv](https://arxiv.org/abs/2404.19287)] [[Code](https://github.com/ElleZWQ/MMCoA)]
 
 
 # 🏅 Honors and Awards
@@ -237,3 +185,84 @@ platforms, and federal learning platforms.
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=V1s6bHv5YoOUdWy_xe51WDGQ7ssAbRpDmruXR6D4I9Q&w=150&h=150&t=light&cmo=#FF5588&cmn=#88FF55"></script>
 </div>
+
+
+
+<!-- <hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/nn-2025-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
+    <p style="margin: 0 0 10px 0;">Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
+    <p style="margin: 0;">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0893608025002965">Paper</a> |
+      <a href="https://github.com/ElleZWQ/MHCD">Code</a>
+      </p>
+  </div>
+</div> -->
+
+<!-- <hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/iclr-2025-vlas.jpg" alt="VLAS" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</h3>
+    <p style="margin: 0 0 10px 0;">Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></strong>, Han Zhao, Donglin Wang</p>
+    <p style="margin: 0 0 10px 0;">ICLR 2025</p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2502.13508">arXiv</a> |
+      <a href="https://github.com/whichwhichgone/VLAS">Code</a>
+      </p>
+  </div>
+</div> -->
+
+<!-- <hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/icassp-2025-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
+    <p style="margin: 0 0 10px 0;">Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">ICASSP 2025</p>
+    <p style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10888057">Paper</a> |
+      <a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
+      <a href="https://github.com/zhanghr2001/PromptTA">Code</a>
+      </p>
+  </div>
+</div> -->
+
+<!-- <hr /> -->
+
+<!-- <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/arxiv-2024-mmcoa.jpg" alt="MMCoA" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective</h3>
+    <p style="margin: 0 0 10px 0;">Wanqi Zhou*, <strong><u>Shuanghao Bai*</u></strong>, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">arXiv 2024</p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2404.19287">arXiv</a> | 
+      <a href="https://github.com/ElleZWQ/MMCoA">Code</a>
+      </p>
+  </div>
+</div> -->
+
+<!-- <hr /> -->
+
+<!-- <div style="display: flex; align-items: center;margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/icassp-2024-mlp.jpg" alt="MLP" style="width: 200px; height: 80px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Improving Cross-domain Few-shot Classification with Multilayer Perceptron</h3>
+    <p style="margin: 0 0 10px 0;"></p>
+    <p style="margin: 0 0 10px 0;">ICASSP 2024</p>
+    <p style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10447065/">Paper</a> |
+      <a href="https://arxiv.org/abs/2312.09589">arXiv</a> | 
+      <a href="https://github.com/BaiShuanghao/CDFSC-MLP">Code</a>  
+      </p>
+  </div>
+</div> -->
+
+<!-- <img src="https://img.shields.io/badge/arXiv-2024-%20red?style=flat-square">  -->
