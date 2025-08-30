@@ -26,7 +26,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a fourth-year direct Ph.D. student in Artificial Intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), where I am advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd).
-Prior to my doctoral studies, I received my Bachelor’s degree in Automation from Chongqing University in 2022, under the supervision of Prof. [Zhao Min](https://accu.cqu.edu.cn/info/1375/9156.htm).
+Prior to my doctoral studies, I received my Bachelor’s degree in Automation from Chongqing University in 2022, under the supervision of Prof. [Min Zhao](https://accu.cqu.edu.cn/info/1375/9156.htm).
 
 🔭 My research interests lie in generalization in computer vision and robot learning, vision-language models, and vision language action models.
 
