@@ -1,3 +1,5 @@
+# ./run_server.sh
+
 # bundle exec jekyll liveserve
 
 # gem uninstall bundler

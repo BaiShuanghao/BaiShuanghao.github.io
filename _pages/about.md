@@ -25,31 +25,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a 3rd-year direct Ph.D. student of artificial intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). 
-I am currently serving as a visiting student at the [MiLab](https://milab.westlake.edu.cn/index.html) at Westlake University, advised by Prof. [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN). 
-Previously, I obtained my bachelor’s degree from School of autamation in Chongqing University in 2022. 
+I'm a 4th-year direct Ph.D. student of artificial intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). 
+Previously, I obtained my bachelor’s degree from School of autamation in Chongqing University in 2022, supervised by [Zhao Min]. 
 
 🔭 My research interests lie in generalization in computer vision and vision-language models.
 I’m also currently learning robotics, including generalization in robot learning and vision language action models.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💻 I am actively seeking academic and industrial exchange opportunities for Fall 2025, specifically focusing on joint Ph.D. programs and internship projects. I would greatly appreciate any information regarding potential opportunities that match my research interests and career aspirations.
+<!-- 💻 I am actively seeking academic and industrial exchange opportunities for Fall 2025, specifically focusing on joint Ph.D. programs and internship projects. I would greatly appreciate any information regarding potential opportunities that match my research interests and career aspirations. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
+
 # 🔥 News
+- \[2025/08/02\]: [Long-VLA](https://arxiv.org/abs/2508.19958) - the first VLA model to enable skill chaining in long-horizon tasks, accompanied by the introduction of a new benchmark, L-CALVIN; accepted to CoRL 2025! See [Project page](https://long-vla.github.io/).
 - \[2025/05/06\]: We released [OpenHelix](https://arxiv.org/abs/2505.03912), which provides a short survey and empirical analysis of dual-system VLA, and introduces a novel open-source dual-system VLA model.
 - \[2025/05/01\]: [BC-IB](https://arxiv.org/abs/2502.02853), the first to introduce information bottleneck theory into robotic manipulation through visual imitation learning under the lens of information theory, got accepted for ICML 2025! See [Project page](https://baishuanghao.github.io/BC-IB.github.io/).
 - \[2025/03/24\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery that integrates Minimum Error Entropy to enable dynamic adaptation to varying levels of complexity and noise got accepted for Neural Networks 2025!
 - \[2025/01/23\]: [VLAS](https://arxiv.org/abs/2502.13508), the first vision-language-action model that incorporates speech instructions for robotic manipulation, got accepted for ICLR 2025!
-- \[2024/12/21\]: [PromptTA](https://arxiv.org/abs/2409.14163), a novel VLM-based source-free domain generalization method integrating a text adapter and diverse prompt inputs, got accepted by ICASSP 2025!
-- \[2024/10/23\]: The GitHub repository [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) is now public! Let’s work together to build a comprehensive and valuable resource for the robotics and AI community!
-- \[2024/07/04\]: [SPG](https://arxiv.org/abs/2404.19286), a novel VLM-based domain generalization method that introduces generative concepts into prompt learning, got accepted by ECCV 2024.
-- \[2024/05/02\]: [JRNGC](https://arxiv.org/abs/2405.08779), a unified causal discovery method that leverages the Jacobian matrix to address high-dimensional multivariate causal discovery, got accepted by ICML 2024!
-- \[2024/12/14\]: One [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
-- \[2023/12/09\]: [PDA](https://arxiv.org/abs/2312.09553), a novel VLM-based prompt learning approach for unsupervised domain adaptation that integrates and thoroughly evaluates diverse prompt learning methods, got accepted by AAAI 2024! 
+
+<details>
+  <summary>📜 Historical News</summary>
+  <ul>
+    <li>[2024/12/21]: <a href="https://arxiv.org/abs/2409.14163">PromptTA</a>, a novel VLM-based source-free domain generalization method integrating a text adapter and diverse prompt inputs, got accepted by ICASSP 2025!</li>
+    <li>[2024/10/23]: The GitHub repository <a href="https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation">Awesome-Robotics-Manipulation</a> is now public! Let’s work together to build a comprehensive and valuable resource for the robotics and AI community!</li>
+    <li>[2024/07/04]: <a href="https://arxiv.org/abs/2404.19286">SPG</a>, a novel VLM-based domain generalization method that introduces generative concepts into prompt learning, got accepted by ECCV 2024.</li>
+    <li>[2024/05/02]: <a href="https://arxiv.org/abs/2405.08779">JRNGC</a>, a unified causal discovery method that leverages the Jacobian matrix to address high-dimensional multivariate causal discovery, got accepted by ICML 2024!</li>
+    <li>[2024/12/14]: One <a href="https://arxiv.org/abs/2312.09589">paper</a> on cross-domain few-shot classification got accepted by ICASSP 2024.</li>
+    <li>[2023/12/09]: <a href="https://arxiv.org/abs/2312.09553">PDA</a>, a novel VLM-based prompt learning approach for unsupervised domain adaptation that integrates and thoroughly evaluates diverse prompt learning methods, got accepted by AAAI 2024!</li>
+  </ul>
+</details>
+
 
 
 # 📝 Publications
@@ -119,6 +127,9 @@ I’m also currently learning robotics, including generalization in robot learni
 </div>
 
 
+<img src="https://img.shields.io/badge/CoRL-2025-blue?style=flat-square"> 
+Yiguo Fan<sup>*</sup>, Pengxiang Ding<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Xinyang Tong<sup>*</sup>, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang, Zhaoxin Fan, Badong Chen, Donglin Wang.  &quot;**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2508.19958)] [[Project](https://long-vla.github.io/)]
+
 <img src="https://img.shields.io/badge/NN-2025-228B22?style=flat-square"> 
 Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen.  &quot;**An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery**&quot;.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965)] [[Code](https://github.com/ElleZWQ/MHCD)]
 
@@ -126,7 +137,7 @@ Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen.  &qu
 Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></strong>, Han Zhao, Donglin Wang.  &quot;**VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2502.13508)] [[Code](https://github.com/whichwhichgone/VLAS)]
 
 <img src="https://img.shields.io/badge/ICASSP-2025-blue?style=flat-square"> 
-Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen.  &quot;**PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10888057)] [[arXiv](https://arxiv.org/abs/2409.14163)] [[Code](https://github.com/zhanghr2001/PromptTA)]
+Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen.  &quot;**PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10888057)] [[arXiv](https://arxiv.org/abs/2409.14163)] [[Code](https://github.com/zhanghr2001/PromptTA)]
 
 <img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"> 
 <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Donglin Wang, Badong Chen.  &quot;**Improving Cross-domain Few-shot Classification with Multilayer Perceptron**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10447065/)] [[arXiv](https://arxiv.org/abs/2312.09589)] [[Code](https://github.com/BaiShuanghao/CDFSC-MLP)]
@@ -138,10 +149,25 @@ Haoran Zhang*, <strong><u>Shuanghao Bai*</u></strong>, Wanqi Zhou, Jingwen Fu, B
 Yuedi Zhang, <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Badong Chen.  &quot;**Dual-Path Stable Soft Prompt Generation for Domain Generalization**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
 
 <img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=flat-square">
-Can Cui, Pengxiang Ding, Wenxuan Song, <strong><u>Shuanghao Bai</u></strong>, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, Han Zhao, Siteng Huang, Donglin Wang.  &quot;**Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2505.03912)] [[Code](https://github.com/OpenHelix-robot/OpenHelix)] [[Project](https://openhelix-robot.github.io/)]
+Can Cui, Pengxiang Ding, Wenxuan Song, <strong><u>Shuanghao Bai</u></strong>, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, Han Zhao, Siteng Huang, Donglin Wang.  &quot;**Openhelix: A Short Survey, Empirical Analysis, and Open-source Dual-system VLA Model for Robotic Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2505.03912)] [[Code](https://github.com/OpenHelix-robot/OpenHelix)] [[Project](https://openhelix-robot.github.io/)]
 
 <img src="https://img.shields.io/badge/arXiv-2404.19287-B31B1B?style=flat-square">
-Wanqi Zhou*, <strong><u>Shuanghao Bai*</u></strong>, Danilo Mandic, Qibin Zhao, Badong Chen.  &quot;**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**&quot;.  [[arXiv](https://arxiv.org/abs/2404.19287)] [[Code](https://github.com/ElleZWQ/MMCoA)]
+Wanqi Zhou<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Danilo Mandic, Qibin Zhao, Badong Chen.  &quot;**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**&quot;.  [[arXiv](https://arxiv.org/abs/2404.19287)] [[Code](https://github.com/ElleZWQ/MMCoA)]
+
+
+
+# 📖 Research Experience
+* [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/): Aug. 2025 - Now
+  * Research Intern
+  * Research Direction: Embodied Multimodal Foundation Models, e.g. VLA models.
+  * Advisor: [Chi Cheng](https://chicheng123.github.io/)
+  * Co-Advisor: [Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html)
+
+* Westlake University - [MiLab](https://milab.westlake.edu.cn/index.html): Sept. 2024 – Mar. 2025
+  * Visiting Student
+  * Research Direction: Robotics.
+  * Advisor: [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)
+
 
 
 # 🏅 Honors and Awards
@@ -149,27 +175,6 @@ Wanqi Zhou*, <strong><u>Shuanghao Bai*</u></strong>, Danilo Mandic, Qibin Zhao, 
 * Outstanding Undergraduate Thesis of College of Automation, Chongqing University, 2022
 * National Scholarship, 2019
 * Outstanding Student of Chongqing University, 2019
-
-<!-- 
-# 📖 Work experience
-* March 2021 - Now: Research Assistant
-  * Microsoft Research Asia, Beijing, China.
-  * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
-  * Advisor: Prof. [Jingdong Wang](https://jingdongwang2017.github.io/)
-
-* August 2020 - Now: Research Assistant
-  * University of Chinese Academy of Sciences, Beijing, China.
-  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing an efficient method to tackle problems in object detection and partial pedestrian re-identification.
-  * Advisor: Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu)
-  * Co-Advisors: Prof. [Zhang Zhang](https://scholar.google.com/citations?user=rnRNwEMAAAAJ&hl=en) and Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN)
-
-* April 2018 – July 2020: Research Assistant
-  * South China University of Technology, Guangzhou, China.
-  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
-platforms, and federal learning platforms.
-  * Advisor: Prof. Xinglin Zhang
- -->
-
 
 <!-- 
 # 💬 Invited Talks
