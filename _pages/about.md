@@ -39,6 +39,7 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
 
 
 # 🔥 News
+- \[2025/10/13\]: We have released the most comprehensive and content-rich survey on robot manipulation to date, titled《[Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903)》.
 - \[2025/08/02\]: [Long-VLA](https://arxiv.org/abs/2508.19958) - the first VLA model to enable skill chaining in long-horizon tasks, accompanied by the introduction of a new benchmark, L-CALVIN; accepted to CoRL 2025! See [Project page](https://long-vla.github.io/).
 - \[2025/05/06\]: We released [OpenHelix](https://arxiv.org/abs/2505.03912), which provides a short survey and empirical analysis of dual-system VLA, and introduces a novel open-source dual-system VLA model.
 - \[2025/05/01\]: [BC-IB](https://arxiv.org/abs/2502.02853), the first to introduce information bottleneck theory into robotic manipulation through visual imitation learning under the lens of information theory, got accepted for ICML 2025! See [Project page](https://baishuanghao.github.io/BC-IB.github.io/).
@@ -62,6 +63,20 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
 # 📝 Publications
 
 ## Published
+
+<div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 30px;">
+  <img src="images/paper/arXiv-2025-survey.png" alt="survey" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai</u></strong>, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, Han Zhao, Wanqi Zhou, Wei Zhao, Zhe Li, Pengxiang Ding, Cheng Chi, Haoang Li, Chang Xu, Xiaolong Zheng, Donglin Wang, Shanghang Zhang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><em>arXiv 2025</em></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2510.10903">arXiv</a>| 
+      <a href="https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation">Github</a>
+      </p>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 30px;">
   <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
@@ -144,6 +159,9 @@ Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wan
 
 ## Preprints & Under Submission
 
+<img src="https://img.shields.io/badge/arXiv-2510.05827-B31B1B?style=flat-square">
+Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Yuedi Zhang, Qi Zhang, Pengxiang Ding, Cheng Chi, Donglin Wang, Badong Chen.  &quot;**VCoT-Grasp: Grasp Foundation Models with Visual Chain-of-Thought Reasoning for Language-driven Grasp Generation**&quot;.  [[arXiv](https://arxiv.org/abs/2510.05827)] [[Code](https://github.com/zhanghr2001/VCoT-Grasp)] [[Project](https://zhanghr2001.github.io/VCoT-Grasp.github.io/)]
+
 <img src="https://img.shields.io/badge/arXiv-2505.18770-B31B1B?style=flat-square">
 Yuedi Zhang, <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Badong Chen.  &quot;**Dual-Path Stable Soft Prompt Generation for Domain Generalization**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
 
@@ -159,8 +177,7 @@ Wanqi Zhou<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Danil
 * [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/): Aug. 2025 - Now
   * Research Intern
   * Research Direction: Embodied Multimodal Foundation Models, e.g. VLA models.
-  * Advisor: [Chi Cheng](https://chicheng123.github.io/)
-  * Co-Advisor: [Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html)
+  * Advisor: [Chi Cheng](https://chicheng123.github.io/) and [Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html)
 
 * Westlake University - [MiLab](https://milab.westlake.edu.cn/index.html): Sept. 2024 – Mar. 2025
   * Visiting Student
