@@ -177,7 +177,7 @@ Wanqi Zhou<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Danil
 * [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/): Aug. 2025 - Now
   * Research Intern
   * Research Direction: Embodied Multimodal Foundation Models, e.g. VLA models.
-  * Advisor: [Chi Cheng](https://chicheng123.github.io/) and [Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html)
+  * Advisor: [Chi Cheng](https://chicheng123.github.io/), [Pengwei Wang](https://scholar.google.com/citations?user=2xR6P5AAAAAJ&hl=zh-CN&oi=ao) and [Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html)
 
 * Westlake University - [MiLab](https://milab.westlake.edu.cn/index.html): Sept. 2024 – Mar. 2025
   * Visiting Student
