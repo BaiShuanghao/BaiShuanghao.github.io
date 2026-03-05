@@ -28,7 +28,7 @@ redirect_from:
 I am a fourth-year direct Ph.D. student in Artificial Intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), where I am advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd).
 Prior to my doctoral studies, I received my Bachelor’s degree in Automation from Chongqing University in 2022, under the supervision of Prof. [Min Zhao](https://accu.cqu.edu.cn/info/1375/9156.htm).
 
-🔭 My research interests lie in generalization in computer vision and robot learning, vision-language models, and vision language action models.
+🔭 My research interests lie in generalization in computer vision and robot learning, vision-language models, and vision-language-action models.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
@@ -159,6 +159,12 @@ Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wan
 
 ## Preprints & Under Submission
 
+<img src="https://img.shields.io/badge/arXiv-2602.04228-B31B1B?style=flat-square">
+<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Dakai Wang<sup>*</sup>, Cheng Chi<sup>*</sup>, Wanqi Zhou, Jing Lyu, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Lei Xing, Shanghang Zhang, Badong Chen.  &quot;**Reshaping Action Error Distributions for Reliable Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.04228)] [[Code](https://github.com/Cognition2ActionLab/VLA-TMEE)] [[Project](https://cognition2actionlab.github.io/VLA-TMEE.github.io/)]
+
+<img src="https://img.shields.io/badge/arXiv-2602.01166-B31B1B?style=flat-square">
+<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Jing Lyu<sup>*</sup>, Wanqi Zhou, Zhe Li, Dakai Wang, Lei Xing, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Badong Chen, Shanghang Zhang.  &quot;**Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.01166)] [[Code](https://github.com/LoveJu1y/LaRA-VLA)] [[Project](https://loveju1y.github.io/Latent-Reasoning-VLA/)]
+
 <img src="https://img.shields.io/badge/arXiv-2510.05827-B31B1B?style=flat-square">
 Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Yuedi Zhang, Qi Zhang, Pengxiang Ding, Cheng Chi, Donglin Wang, Badong Chen.  &quot;**VCoT-Grasp: Grasp Foundation Models with Visual Chain-of-Thought Reasoning for Language-driven Grasp Generation**&quot;.  [[arXiv](https://arxiv.org/abs/2510.05827)] [[Code](https://github.com/zhanghr2001/VCoT-Grasp)] [[Project](https://zhanghr2001.github.io/VCoT-Grasp.github.io/)]
 
@@ -174,14 +180,19 @@ Wanqi Zhou<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Danil
 
 
 # 📖 Research Experience
-* [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/): Aug. 2025 - Now
+* [Beijing Innovation Center of Humanoid Robotics](https://www.x-humanoid.com/): Dec. 2025 - Now
   * Research Intern
-  * Research Direction: Embodied Multimodal Foundation Models, e.g. VLA models.
-  * Advisor: [Chi Cheng](https://chicheng123.github.io/), [Pengwei Wang](https://scholar.google.com/citations?user=2xR6P5AAAAAJ&hl=zh-CN&oi=ao) and [Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html)
+  * Research Direction: VLA models for humanoid robots.
+  * Advisor: [Meng Li](https://scholar.google.com/citations?user=xnAb3p4AAAAJ&hl=zh-CN&oi=sra) and [Zhengping Che](https://chezhengping.xyz/)
+
+* [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/): Aug. 2025 - Dec. 2025
+  * Research Intern
+  * Research Direction: VLA models for single-arm and dual-arm robots.
+  * Advisor: [Cheng Chi](https://chicheng123.github.io/), [Pengwei Wang](https://scholar.google.com/citations?user=2xR6P5AAAAAJ&hl=zh-CN&oi=ao) and [Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html)
 
 * Westlake University - [MiLab](https://milab.westlake.edu.cn/index.html): Sept. 2024 – Mar. 2025
   * Visiting Student
-  * Research Direction: Robotics.
+  * Research Direction: Robotic Manipulation.
   * Advisor: [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)
 
 
