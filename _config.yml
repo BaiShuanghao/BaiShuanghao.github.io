@@ -47,7 +47,7 @@ author:
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
-  resume           : "assets/resume.pdf"
+  resume           : # "assets/resume.pdf"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :

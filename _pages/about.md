@@ -65,6 +65,19 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
 ## Published
 
 <div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 30px;">
+  <img src="images/paper/arxiv-2026-hex.gif" alt="HEX" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Shuanghao Bai*</u></strong>, Meng Li*, Xinyuan Lv, Jiawei Wang, Xinhua Wang, Fei Liao, Chengkai Hou, Langzhe Gu, Wanqi Zhou, Kun Wu, Ziluo Ding, Zhiyuan Xu, Lei Sun, Shanghang Zhang, Zhengping Che, Jian Tang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><em>arXiv 2026</em></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2604.07993">arXiv</a>| 
+      <a href="https://hex-humanoid.github.io/">Project</a>
+      </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 30px;">
   <img src="images/paper/arXiv-2025-survey.png" alt="survey" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey</h3>
@@ -109,7 +122,7 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
   </div>
 </div>
 
-<hr />
+<!-- <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/icml-2024-jrngc.jpg" alt="JRNGC" style="width: 200px; height: 120px; margin-right: 20px;">
@@ -122,7 +135,7 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
       <a href="https://github.com/ElleZWQ/JRNGC">Code</a>
       </p>
   </div>
-</div>
+</div> -->
 
 <hr />
 
@@ -152,6 +165,9 @@ Wei Zhao, Pengxiang Ding, Zhang Min, Zhefei Gong, <strong><u>Shuanghao Bai</u></
 
 <img src="https://img.shields.io/badge/ICASSP-2025-blue?style=flat-square"> 
 Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Jingwen Fu, Badong Chen.  &quot;**PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10888057)] [[arXiv](https://arxiv.org/abs/2409.14163)] [[Code](https://github.com/zhanghr2001/PromptTA)]
+
+<img src="https://img.shields.io/badge/ICML-2024-blue?style=flat-square"> 
+Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Shujian Yu, Qibin Zhao, Badong Chen.  &quot;**Jacobian Regularizer-based Neural Granger Causality**&quot;.  [[Paper](https://proceedings.mlr.press/v235/zhou24a.html)] [[arXiv](https://arxiv.org/abs/2405.08779)] [[Code](https://github.com/ElleZWQ/JRNGC)]
 
 <img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"> 
 <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Donglin Wang, Badong Chen.  &quot;**Improving Cross-domain Few-shot Classification with Multilayer Perceptron**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10447065/)] [[arXiv](https://arxiv.org/abs/2312.09589)] [[Code](https://github.com/BaiShuanghao/CDFSC-MLP)]
