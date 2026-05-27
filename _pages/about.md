@@ -25,7 +25,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year direct Ph.D. student in Artificial Intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), where I am advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd).
+My name is Shuanghao Bai (白双豪 in Chinese). I am a fourth-year direct Ph.D. student in Artificial Intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), where I am advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd).
 Prior to my doctoral studies, I received my Bachelor’s degree in Automation from Chongqing University in 2022, under the supervision of Prof. [Min Zhao](https://accu.cqu.edu.cn/info/1375/9156.htm).
 
 🔭 My research interests lie in generalization in computer vision and robot learning, vision-language models, and vision-language-action models.
@@ -72,7 +72,8 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
     <p style="margin: 0 0 10px 0;"><em>arXiv 2026</em></p>
     <p style="margin: 0;">
       <a href="https://arxiv.org/abs/2604.07993">arXiv</a>| 
-      <a href="https://hex-humanoid.github.io/">Project</a>
+      <a href="https://hex-humanoid.github.io/">Project</a> |
+      <a href="https://github.com/Open-X-Humanoid/HEX">Code</a>
       </p>
   </div>
 </div>
@@ -154,6 +155,9 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
 </div>
 
 
+<img src="https://img.shields.io/badge/ICML-2026-blue?style=flat-square">
+<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Jing Lyu<sup>*</sup>, Wanqi Zhou, Zhe Li, Dakai Wang, Lei Xing, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Badong Chen, Shanghang Zhang.  &quot;**Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.01166)] [[Code](https://github.com/LoveJu1y/LaRA-VLA)] [[Project](https://loveju1y.github.io/Latent-Reasoning-VLA/)]
+
 <img src="https://img.shields.io/badge/CoRL-2025-blue?style=flat-square"> 
 Yiguo Fan<sup>*</sup>, Pengxiang Ding<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Xinyang Tong<sup>*</sup>, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang, Zhaoxin Fan, Badong Chen, Donglin Wang.  &quot;**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2508.19958)] [[Project](https://long-vla.github.io/)]
 
@@ -177,9 +181,6 @@ Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Shujian Yu, Qibin Zhao, Badon
 
 <img src="https://img.shields.io/badge/arXiv-2602.04228-B31B1B?style=flat-square">
 <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Dakai Wang<sup>*</sup>, Cheng Chi<sup>*</sup>, Wanqi Zhou, Jing Lyu, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Lei Xing, Shanghang Zhang, Badong Chen.  &quot;**Reshaping Action Error Distributions for Reliable Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.04228)] [[Code](https://github.com/Cognition2ActionLab/VLA-TMEE)] [[Project](https://cognition2actionlab.github.io/VLA-TMEE.github.io/)]
-
-<img src="https://img.shields.io/badge/arXiv-2602.01166-B31B1B?style=flat-square">
-<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Jing Lyu<sup>*</sup>, Wanqi Zhou, Zhe Li, Dakai Wang, Lei Xing, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Badong Chen, Shanghang Zhang.  &quot;**Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.01166)] [[Code](https://github.com/LoveJu1y/LaRA-VLA)] [[Project](https://loveju1y.github.io/Latent-Reasoning-VLA/)]
 
 <img src="https://img.shields.io/badge/arXiv-2510.05827-B31B1B?style=flat-square">
 Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Yuedi Zhang, Qi Zhang, Pengxiang Ding, Cheng Chi, Donglin Wang, Badong Chen.  &quot;**VCoT-Grasp: Grasp Foundation Models with Visual Chain-of-Thought Reasoning for Language-driven Grasp Generation**&quot;.  [[arXiv](https://arxiv.org/abs/2510.05827)] [[Code](https://github.com/zhanghr2001/VCoT-Grasp)] [[Project](https://zhanghr2001.github.io/VCoT-Grasp.github.io/)]
