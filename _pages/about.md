@@ -39,7 +39,7 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
 
 
 # 🔥 News
-- \[2026/06/17\]: Two papers, [VCoT-Grasp](https://arxiv.org/abs/2510.05827) and [NIABench](https://arxiv.org/abs/2605.01368) are accepted by IROS 2026.
+- \[2026/06/17\]: Two papers, [VCoT-Grasp](https://arxiv.org/abs/2510.05827) and [NIABench](https://arxiv.org/abs/2605.01368), are accepted by IROS 2026.
 - \[2026/05/01\]: [LaRA-VLA](https://arxiv.org/abs/2602.01166) is accepted by ICML 2026.
 - \[2026/03/17]: [DPSPG](https://arxiv.org/abs/2505.18770) is accepted by ICME 2026.
 - \[2025/10/13\]: We have released the most comprehensive and content-rich survey on robot manipulation to date, titled《[Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903)》.
@@ -191,11 +191,14 @@ Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Shujian Yu, Qibin Zhao, Badon
 
 ## Preprints & Under Submission
 
-<img src="https://img.shields.io/badge/arXiv-2602.04228-B31B1B?style=flat-square">
+<img src="https://img.shields.io/badge/arXiv-2605.13382-B31B1B?style=flat-square">
 Ruiheng Wang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Haoran Zhang, Badong Chen, Xiangyu Xu.  &quot;**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**&quot;.  [[arXiv](https://arxiv.org/abs/2605.13382)] [[Project](https://ruiheng123.github.io/blockvla.github.io/)]
 
 <img src="https://img.shields.io/badge/arXiv-2602.04228-B31B1B?style=flat-square">
 <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Dakai Wang<sup>*</sup>, Cheng Chi<sup>*</sup>, Wanqi Zhou, Jing Lyu, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Lei Xing, Shanghang Zhang, Badong Chen.  &quot;**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**&quot;.  [[arXiv](https://arxiv.org/abs/2602.04228)] [[Code](https://github.com/Cognition2ActionLab/VLA-TMEE)] [[Project](https://cognition2actionlab.github.io/VLA-TMEE.github.io/)]
+
+<img src="https://img.shields.io/badge/arXiv-2512.23649-B31B1B?style=flat-square">
+Zhe Li, Cheng Chi, Boan Zhu, Yangyang Wei, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Yuheng Ji, Yibo Peng, Tao Huang, Pengwei Wang, Zhongyuan Wang, S.-H. Gary Chan, Chang Xu, Shanghang Zhang.  &quot;**RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion**&quot;.  [[arXiv](https://arxiv.org/abs/2512.23649)] [[Project](https://gentlefress.github.io/RoboMirror-proj/)]
 
 <img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=flat-square">
 Can Cui, Pengxiang Ding, Wenxuan Song, <strong><u>Shuanghao Bai</u></strong>, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, Han Zhao, Siteng Huang, Donglin Wang.  &quot;**Openhelix: A Short Survey, Empirical Analysis, and Open-source Dual-system VLA Model for Robotic Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2505.03912)] [[Code](https://github.com/OpenHelix-robot/OpenHelix)] [[Project](https://openhelix-robot.github.io/)]
