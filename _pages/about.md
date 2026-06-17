@@ -39,16 +39,20 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
 
 
 # 🔥 News
+- \[2026/06/17\]: Two papers, [VCoT-Grasp](https://arxiv.org/abs/2510.05827) and [NIABench](https://arxiv.org/abs/2605.01368) are accepted by IROS 2026.
+- \[2026/05/01\]: [LaRA-VLA](https://arxiv.org/abs/2602.01166) is accepted by ICML 2026.
+- \[2026/03/17]: [DPSPG](https://arxiv.org/abs/2505.18770) is accepted by ICME 2026.
 - \[2025/10/13\]: We have released the most comprehensive and content-rich survey on robot manipulation to date, titled《[Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903)》.
 - \[2025/08/02\]: [Long-VLA](https://arxiv.org/abs/2508.19958) - the first VLA model to enable skill chaining in long-horizon tasks, accompanied by the introduction of a new benchmark, L-CALVIN; accepted to CoRL 2025! See [Project page](https://long-vla.github.io/).
 - \[2025/05/06\]: We released [OpenHelix](https://arxiv.org/abs/2505.03912), which provides a short survey and empirical analysis of dual-system VLA, and introduces a novel open-source dual-system VLA model.
 - \[2025/05/01\]: [BC-IB](https://arxiv.org/abs/2502.02853), the first to introduce information bottleneck theory into robotic manipulation through visual imitation learning under the lens of information theory, got accepted for ICML 2025! See [Project page](https://baishuanghao.github.io/BC-IB.github.io/).
-- \[2025/03/24\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery that integrates Minimum Error Entropy to enable dynamic adaptation to varying levels of complexity and noise got accepted for Neural Networks 2025!
-- \[2025/01/23\]: [VLAS](https://arxiv.org/abs/2502.13508), the first vision-language-action model that incorporates speech instructions for robotic manipulation, got accepted for ICLR 2025!
+
 
 <details>
   <summary>📜 Historical News</summary>
   <ul>
+    <li>[2025/03/24]: One <a href="https://www.sciencedirect.com/science/article/pii/S0893608025002965">paper</a> on causal discovery that integrates Minimum Error Entropy to enable dynamic adaptation to varying levels of complexity and noise got accepted for Neural Networks 2025!</li>
+    <li>[2025/01/23]: <a href="https://arxiv.org/abs/2502.13508">VLAS</a>, the first vision-language-action model that incorporates speech instructions for robotic manipulation, got accepted for ICLR 2025!</li>
     <li>[2024/12/21]: <a href="https://arxiv.org/abs/2409.14163">PromptTA</a>, a novel VLM-based source-free domain generalization method integrating a text adapter and diverse prompt inputs, got accepted by ICASSP 2025!</li>
     <li>[2024/10/23]: The GitHub repository <a href="https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation">Awesome-Robotics-Manipulation</a> is now public! Let’s work together to build a comprehensive and valuable resource for the robotics and AI community!</li>
     <li>[2024/07/04]: <a href="https://arxiv.org/abs/2404.19286">SPG</a>, a novel VLM-based domain generalization method that introduces generative concepts into prompt learning, got accepted by ECCV 2024.</li>
@@ -154,9 +158,17 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
   </div>
 </div>
 
+<img src="https://img.shields.io/badge/IROS-2026-blue?style=flat-square">
+Yuedi Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Haoran Zhang, Qi Zhang, Zhirong Luan, Badong Chen.  &quot;**Assistance Without Interruption: A Benchmark and LLM-based Framework for Non-Intrusive Human-Robot Assistance**&quot;.  [[arXiv](https://arxiv.org/abs/2605.01368)] [[Code](https://github.com/Cognition2Action-Lab/NIABench)] [[Project](https://renytek13.github.io/assistance-without-interruption/)]
+
+<img src="https://img.shields.io/badge/IROS-2026-blue?style=flat-square">
+Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Yuedi Zhang, Qi Zhang, Pengxiang Ding, Cheng Chi, Donglin Wang, Badong Chen.  &quot;**VCoT-Grasp: Grasp Foundation Models with Visual Chain-of-Thought Reasoning for Language-driven Grasp Generation**&quot;.  [[arXiv](https://arxiv.org/abs/2510.05827)] [[Code](https://github.com/zhanghr2001/VCoT-Grasp)] [[Project](https://zhanghr2001.github.io/VCoT-Grasp.github.io/)]
 
 <img src="https://img.shields.io/badge/ICML-2026-blue?style=flat-square">
 <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Jing Lyu<sup>*</sup>, Wanqi Zhou, Zhe Li, Dakai Wang, Lei Xing, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Badong Chen, Shanghang Zhang.  &quot;**Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.01166)] [[Code](https://github.com/LoveJu1y/LaRA-VLA)] [[Project](https://loveju1y.github.io/Latent-Reasoning-VLA/)]
+
+<img src="https://img.shields.io/badge/ICME-2026-blue?style=flat-square">
+Yuedi Zhang, <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Badong Chen.  &quot;**Dual-Path Stable Soft Prompt Generation for Domain Generalization**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
 
 <img src="https://img.shields.io/badge/CoRL-2025-blue?style=flat-square"> 
 Yiguo Fan<sup>*</sup>, Pengxiang Ding<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Xinyang Tong<sup>*</sup>, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang, Zhaoxin Fan, Badong Chen, Donglin Wang.  &quot;**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2508.19958)] [[Project](https://long-vla.github.io/)]
@@ -180,13 +192,10 @@ Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Shujian Yu, Qibin Zhao, Badon
 ## Preprints & Under Submission
 
 <img src="https://img.shields.io/badge/arXiv-2602.04228-B31B1B?style=flat-square">
-<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Dakai Wang<sup>*</sup>, Cheng Chi<sup>*</sup>, Wanqi Zhou, Jing Lyu, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Lei Xing, Shanghang Zhang, Badong Chen.  &quot;**Reshaping Action Error Distributions for Reliable Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.04228)] [[Code](https://github.com/Cognition2ActionLab/VLA-TMEE)] [[Project](https://cognition2actionlab.github.io/VLA-TMEE.github.io/)]
+Ruiheng Wang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Haoran Zhang, Badong Chen, Xiangyu Xu.  &quot;**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**&quot;.  [[arXiv](https://arxiv.org/abs/2605.13382)] [[Project](https://ruiheng123.github.io/blockvla.github.io/)]
 
-<img src="https://img.shields.io/badge/arXiv-2510.05827-B31B1B?style=flat-square">
-Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wanqi Zhou, Yuedi Zhang, Qi Zhang, Pengxiang Ding, Cheng Chi, Donglin Wang, Badong Chen.  &quot;**VCoT-Grasp: Grasp Foundation Models with Visual Chain-of-Thought Reasoning for Language-driven Grasp Generation**&quot;.  [[arXiv](https://arxiv.org/abs/2510.05827)] [[Code](https://github.com/zhanghr2001/VCoT-Grasp)] [[Project](https://zhanghr2001.github.io/VCoT-Grasp.github.io/)]
-
-<img src="https://img.shields.io/badge/arXiv-2505.18770-B31B1B?style=flat-square">
-Yuedi Zhang, <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Badong Chen.  &quot;**Dual-Path Stable Soft Prompt Generation for Domain Generalization**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
+<img src="https://img.shields.io/badge/arXiv-2602.04228-B31B1B?style=flat-square">
+<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Dakai Wang<sup>*</sup>, Cheng Chi<sup>*</sup>, Wanqi Zhou, Jing Lyu, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Lei Xing, Shanghang Zhang, Badong Chen.  &quot;**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**&quot;.  [[arXiv](https://arxiv.org/abs/2602.04228)] [[Code](https://github.com/Cognition2ActionLab/VLA-TMEE)] [[Project](https://cognition2actionlab.github.io/VLA-TMEE.github.io/)]
 
 <img src="https://img.shields.io/badge/arXiv-2505.03912-B31B1B?style=flat-square">
 Can Cui, Pengxiang Ding, Wenxuan Song, <strong><u>Shuanghao Bai</u></strong>, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, Han Zhao, Siteng Huang, Donglin Wang.  &quot;**Openhelix: A Short Survey, Empirical Analysis, and Open-source Dual-system VLA Model for Robotic Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2505.03912)] [[Code](https://github.com/OpenHelix-robot/OpenHelix)] [[Project](https://openhelix-robot.github.io/)]
