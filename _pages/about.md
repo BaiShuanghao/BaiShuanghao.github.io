@@ -195,7 +195,7 @@ Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Shujian Yu, Qibin Zhao, Badon
 Ruiheng Wang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Haoran Zhang, Badong Chen, Xiangyu Xu.  &quot;**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**&quot;.  [[arXiv](https://arxiv.org/abs/2605.13382)] [[Project](https://ruiheng123.github.io/blockvla.github.io/)]
 
 <img src="https://img.shields.io/badge/arXiv-2602.04228-B31B1B?style=flat-square">
-<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Dakai Wang<sup>*</sup>, Cheng Chi<sup>*</sup>, Wanqi Zhou, Jing Lyu, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Lei Xing, Shanghang Zhang, Badong Chen.  &quot;**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**&quot;.  [[arXiv](https://arxiv.org/abs/2602.04228)] [[Code](https://github.com/Cognition2ActionLab/VLA-TMEE)] [[Project](https://cognition2actionlab.github.io/VLA-TMEE.github.io/)]
+<strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Dakai Wang<sup>*</sup>, Cheng Chi<sup>*</sup>, Wanqi Zhou, Jing Lyu, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Lei Xing, Shanghang Zhang, Badong Chen.  &quot;**Reshaping Action Error Distributions for Reliable Vision-Language-Action Models**&quot;.  [[arXiv](https://arxiv.org/abs/2602.04228)] [[Code](https://github.com/Cognition2ActionLab/VLA-TMEE)] [[Project](https://cognition2actionlab.github.io/VLA-TMEE.github.io/)]
 
 <img src="https://img.shields.io/badge/arXiv-2512.23649-B31B1B?style=flat-square">
 Zhe Li, Cheng Chi, Boan Zhu, Yangyang Wei, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Yuheng Ji, Yibo Peng, Tao Huang, Pengwei Wang, Zhongyuan Wang, S.-H. Gary Chan, Chang Xu, Shanghang Zhang.  &quot;**RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion**&quot;.  [[arXiv](https://arxiv.org/abs/2512.23649)] [[Project](https://gentlefress.github.io/RoboMirror-proj/)]
@@ -238,15 +238,17 @@ Wanqi Zhou<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Danil
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
 
+<!-- <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=Byx8WFR3pBK1Y4FlZmTCWAavIZ3Nnv9yr8d5flkQsOo"></script>
+</div> -->
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=V1s6bHv5YoOUdWy_xe51WDGQ7ssAbRpDmruXR6D4I9Q&cl=ffffff&w=a"></script> -->
-
-<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=V1s6bHv5YoOUdWy_xe51WDGQ7ssAbRpDmruXR6D4I9Q&w=150&h=150&t=light&cmo=#FF5588&cmn=#88FF55"></script> -->
-
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=V1s6bHv5YoOUdWy_xe51WDGQ7ssAbRpDmruXR6D4I9Q&w=150&h=150&t=light&cmo=#FF5588&cmn=#88FF55"></script>
+<!-- <div id="copyright">
+  <span id="busuanzi_container_site_pv">
+    Total visit: <span id="busuanzi_value_site_pv"></span>
+  </span>
 </div>
 
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
 
 
 <!-- <hr />
